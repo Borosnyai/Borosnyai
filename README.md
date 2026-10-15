@@ -1,4 +1,4 @@
-# Hallo, ich bin Viktor 👋
+# Viktor Borosnyai
 
 Informatiker in Ausbildung aus Graz (**Tageskolleg Informatik, HTL BULME Graz**) mit Schwerpunkt Netzwerktechnik und verteilte Systeme.
 
