@@ -1,15 +1,15 @@
 # Viktor Borosnyai
 
-Informatiker in Ausbildung aus Graz (**Tageskolleg Informatik, HTL BULME Graz**) mit Schwerpunkt Netzwerktechnik und verteilte Systeme.
+Computer science student from Graz (**Tageskolleg Informatik, HTL BULME Graz**) specialising in network technology and distributed systems.
 
-## Diplomprojekt
+## Diploma Project
 
-**[IO-Link Dashboard System](https://github.com/Borosnyai/Io-link-dashboard-system)** – Intelligente Sensorvisualisierung und Predictive Maintenance mit IO-Link: ein Vue-3-Dashboard mit Live-Diagrammen, angebunden über REST API und WebSocket/MQTT, mit regelbasierter Trend- und Risikoanalyse.
+**[IO-Link Dashboard System](https://github.com/Borosnyai/Io-link-dashboard-system)** – Intelligent sensor visualisation and predictive maintenance with IO-Link: a Vue 3 dashboard with live charts, connected via REST API and WebSocket/MQTT, with rule-based trend and risk analysis.
 
-- **Mein Anteil:** das komplette Frontend (Vue 3, Live-Visualisierung, Analyse-Logik im Browser). Das Backend hat mein Teampartner Martin Orthacker umgesetzt.
-- **Teamarbeit auf GitHub:** Entwicklung im Team-Repository mit Issues, Feature-Branches und über 60 gemergten Pull Requests (Repository privat, Einblick auf Anfrage).
+- **My part:** the complete frontend (Vue 3, live visualisation, analysis logic in the browser). The backend was built by my team partner Martin Orthacker.
+- **Teamwork on GitHub:** developed in a team repository with issues, feature branches and over 60 merged pull requests (private repository, details on request).
 
-## Technologien
+## Technologies
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,15 +24,15 @@ Informatiker in Ausbildung aus Graz (**Tageskolleg Informatik, HTL BULME Graz**)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Weitere Projekte
+## More Projects
 
-| Projekt | Beschreibung |
+| Project | Description |
 |---|---|
-| [PRISMA_Training](https://github.com/Borosnyai/PRISMA_Training) | Datenmodellierung mit Prisma: Vererbung (STI, CTI, Concrete Table) sowie Fitnessstudio- und Schul-Datenmodell |
-| [IntVector](https://github.com/Borosnyai/IntVector) | Dynamische Integer-Vektorklasse in C++ mit manueller Speicherverwaltung und Catch2-Tests |
-| [cpp_oop_vector](https://github.com/Borosnyai/cpp_oop_vector) | Objektorientierte 3D-Vektorklasse in C++ mit Unit-Tests (Catch2) |
-| [Datenbank](https://github.com/Borosnyai/Datenbank) | SQL-Übungen und Datenbankentwürfe (z. B. Fitnessstudio, Arztpraxis) |
+| [PRISMA_Training](https://github.com/Borosnyai/PRISMA_Training) | Data modelling with Prisma: inheritance (single, class and concrete table) plus gym and school data models |
+| [IntVector](https://github.com/Borosnyai/IntVector) | Dynamic integer vector class in C++ with manual memory management and Catch2 tests |
+| [cpp_oop_vector](https://github.com/Borosnyai/cpp_oop_vector) | Object-oriented 3D vector class in C++ with unit tests (Catch2) |
+| [Datenbank](https://github.com/Borosnyai/Datenbank) | SQL exercises and database designs (e.g. gym, medical practice) |
 
-## Kontakt
+## Contact
 
-📍 Graz, Österreich · ✉️ [vborosnyai@gmail.com](mailto:vborosnyai@gmail.com)
+Graz, Austria · [vborosnyai@gmail.com](mailto:vborosnyai@gmail.com)
