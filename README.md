@@ -6,6 +6,9 @@ Quereinsteiger in die Softwareentwicklung aus Graz. Nach 18 Jahren in der gehobe
 
 **[IO-Link Dashboard System](https://github.com/Borosnyai/Io-link-dashboard-system)** – Intelligente Sensorvisualisierung und Predictive Maintenance mit IO-Link: ein Vue-3-Dashboard mit Live-Diagrammen, angebunden über REST API und WebSocket/MQTT, mit regelbasierter Trend- und Risikoanalyse.
 
+- **Mein Anteil:** das komplette Frontend (Vue 3, Live-Visualisierung, Analyse-Logik im Browser). Das Backend hat mein Teampartner Martin Orthacker umgesetzt.
+- **Teamarbeit auf GitHub:** Entwicklung im Team-Repository mit Issues, Feature-Branches und über 60 gemergten Pull Requests (Repository privat, Einblick auf Anfrage).
+
 ## Technologien
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
