@@ -1,6 +1,6 @@
 # Hallo, ich bin Viktor 👋
 
-Informatiker in Ausbildung aus Graz. Im Januar 2027 schließe ich das **Tageskolleg Informatik an der HTL BULME Graz** ab, mit Schwerpunkt Netzwerktechnik und verteilte Systeme.
+Informatiker in Ausbildung aus Graz (**Tageskolleg Informatik, HTL BULME Graz**) mit Schwerpunkt Netzwerktechnik und verteilte Systeme.
 
 ## Diplomprojekt
 
