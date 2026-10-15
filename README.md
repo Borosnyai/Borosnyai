@@ -1,6 +1,6 @@
 # Hallo, ich bin Viktor 👋
 
-Quereinsteiger in die Softwareentwicklung aus Graz. Nach 18 Jahren in der gehobenen Gastronomie (davon zehn Jahre in London) schließe ich im Januar 2027 das **Tageskolleg Informatik an der HTL BULME Graz** ab.
+Informatiker in Ausbildung aus Graz. Im Januar 2027 schließe ich das **Tageskolleg Informatik an der HTL BULME Graz** ab, mit Schwerpunkt Netzwerktechnik und verteilte Systeme.
 
 ## Diplomprojekt
 
