@@ -1,6 +1,6 @@
 # Viktor Borosnyai
 
-Software developer in training from Graz (**Tageskolleg Informatik, HTL BULME Graz**), building web applications and IoT data visualisations, with a focus on network technology and distributed systems.
+Software developer from Graz (**Tageskolleg Informatik, HTL BULME Graz**), building web applications and IoT data visualisations, with a focus on network technology and distributed systems.
 
 ## Diploma Project
 
