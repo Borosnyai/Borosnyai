@@ -32,7 +32,7 @@ Software developer from Graz (**Tageskolleg Informatik, HTL BULME Graz**), build
 | [PRISMA_Training](https://github.com/Borosnyai/PRISMA_Training) | Data modelling with Prisma: inheritance (single, class and concrete table) plus gym and school data models |
 | [IntVector](https://github.com/Borosnyai/IntVector) | Dynamic integer vector class in C++ with manual memory management and Catch2 tests |
 | [cpp_oop_vector](https://github.com/Borosnyai/cpp_oop_vector) | Object-oriented 3D vector class in C++ with unit tests (Catch2) |
-| [Datenbank](https://github.com/Borosnyai/Datenbank) | SQL exercises and database designs (e.g. gym, medical practice) |
+| [database-exercises](https://github.com/Borosnyai/database-exercises) | SQL exercises and database designs (e.g. gym, medical practice) |
 
 ## Contact
 
