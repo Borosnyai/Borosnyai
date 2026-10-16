@@ -6,6 +6,7 @@ Software developer from Graz (**Tageskolleg Informatik, HTL BULME Graz**), build
 
 **[IO-Link Dashboard System](https://github.com/Borosnyai/Io-link-dashboard-system)** – Intelligent sensor visualisation and predictive maintenance with IO-Link: a Vue 3 dashboard with live charts, connected via REST API and WebSocket/MQTT, with rule-based trend and risk analysis.
 
+- **Try it:** [live demo in the browser](https://borosnyai.github.io/Io-link-dashboard-system/demo/frontend-demo.html), no installation needed (simulated sensor data).
 - **My part:** the complete frontend (Vue 3, live visualisation, analysis logic in the browser). The backend was built by my team partner Martin Orthacker.
 - **Teamwork on GitHub:** developed in a team repository with issues, feature branches and over 60 merged pull requests (private repository, details on request).
 
